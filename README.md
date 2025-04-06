@@ -8,9 +8,9 @@
 
 <div style="display: inline_block">
   <h3>Skills<h3>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/user-attachments/assets/ec874d32-2d02-436c-9969-7f5f44c23b9d">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Geo-MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/ec874d32-2d02-436c-9969-7f5f44c23b9d">
+  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
