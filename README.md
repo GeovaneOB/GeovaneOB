@@ -1,20 +1,18 @@
-## Hi, I'm Geovane!
+<h1 align="center">🚀 GeovaneOB: Interface Ativada</h1>
 
-- Future fullstack
-- Studying MySQL Database and Web Development
-- Contact me at eugeovanebarbosa@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Iniciando+GeovaneOB...;Análise+de+dados...;Códigos+carregados.;Bem-vindo+ao+universo+dev+⚡" alt="Typing SVG" />
+</p>
 
-##
+---
 
-<div style="display: inline_block">
-  <h3>Skills<h3>
-  <img align="center" alt="Geo-MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/ec874d32-2d02-436c-9969-7f5f44c23b9d">
-  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 👨‍💻 Sobre Mim
 
-##
- <h3>Social media<h3>
-  <a href="https://www.linkedin.com/in/geovane-oliveira-barbosa-aa411a259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_geovaneoliveirab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "eugeovanebarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+```yaml
+Usuário: GeovaneOB
+Especialidade:
+  - Desenvolvimento Full Stack
+  - Ciência de Dados
+  - Automação Inteligente
+Localização: Terra 🌍
+Missão: Aprender. Criar. Evoluir.
